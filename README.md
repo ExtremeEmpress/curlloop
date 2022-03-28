@@ -1,5 +1,6 @@
 # curlloop
-A 5 byte PoC for busylooping curl
+A 5 byte PoC for busylooping curl - my first fuzzy finding.
+Read more about my first steps into fuzzing in my blog: ...
 
 ## How to reproduce
 Run the following on linux with the file "poc" :
